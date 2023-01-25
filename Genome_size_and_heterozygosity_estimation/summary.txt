@@ -1,0 +1,14 @@
+GenomeScope version 2.0
+input file = SNI.histo
+output directory = genomescope_SNI
+p = 2
+k = 21
+
+property                      min               max               
+Homozygous (aa)               99.3993%          99.4314%          
+Heterozygous (ab)             0.568608%         0.600688%         
+Genome Haploid Length         1,122,764,398 bp  1,124,500,121 bp  
+Genome Repeat Length          20,971,752 bp     21,004,173 bp     
+Genome Unique Length          1,101,792,645 bp  1,103,495,947 bp  
+Model Fit                     93.5171%          93.5253%          
+Read Error Rate               0.0611071%        0.0611071%        
