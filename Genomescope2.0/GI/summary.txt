@@ -1,0 +1,14 @@
+GenomeScope version 2.0
+input file = GI.histo
+output directory = genomescope_GI
+p = 2
+k = 21
+
+property                      min               max               
+Homozygous (aa)               99.0574%          100%              
+Heterozygous (ab)             0%                0.942619%         
+Genome Haploid Length         1,066,286,698 bp  1,096,894,180 bp  
+Genome Repeat Length          0 bp              0 bp              
+Genome Unique Length          1,066,286,698 bp  1,096,894,180 bp  
+Model Fit                     -11.4086%         -11.4086%         
+Read Error Rate               0.154607%         0.154607%         
