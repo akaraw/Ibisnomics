@@ -1,0 +1,14 @@
+GenomeScope version 2.0
+input file = AWI.histo
+output directory = genomescope_AWI
+p = 2
+k = 21
+
+property                      min               max               
+Homozygous (aa)               99.5827%          99.6168%          
+Heterozygous (ab)             0.383233%         0.417305%         
+Genome Haploid Length         1,137,698,516 bp  1,139,561,395 bp  
+Genome Repeat Length          25,765,055 bp     25,807,243 bp     
+Genome Unique Length          1,111,933,461 bp  1,113,754,152 bp  
+Model Fit                     93.9528%          93.9596%          
+Read Error Rate               0.0502675%        0.0502675%        
