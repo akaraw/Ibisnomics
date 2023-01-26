@@ -1,0 +1,1 @@
+Model converged het:0.004 kcov:60.2 err:0.000503 model fit:0.834 len:1139561395
