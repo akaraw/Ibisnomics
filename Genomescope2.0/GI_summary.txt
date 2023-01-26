@@ -1,0 +1,3 @@
+GenomeScope analyzing GI.histo p=2 k=21 outdir=genomescope_GI
+aa:99.6% ab:0.353%
+Model converged het:0.00353 kcov:125 err:0.00155 model fit:0 len:1096894180
